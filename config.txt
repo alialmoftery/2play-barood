@@ -1,6 +1,6 @@
-token= NTE5MTgxODUzNzAyNDg4MDY2.DubnJw.KATul1Y2Wiv73sPFyuDn4PL_k_o
-owner= 491251957634433045
-prefix= 1
-game= Type 1help
+token= NTM1NjQxNDkyMTE1NDIzMjMz.DyLSOg.wuOp0D-LrnBNLCUySvYs8yAOHhw
+owner= 525789275162279936
+prefix= 3
+game= welcome....💔
 stayinchannel=true 
 songinstatus=false 
